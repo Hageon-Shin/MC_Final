@@ -1,0 +1,5 @@
+[{"name":"Salad","kcal":16,"prot":1,"carbo":3,"fat":1, "char":":Low-Fat (Good for Obesity!)"},
+{"name":"Pizza","kcal":511,"prot":19,"carbo":57,"fat":23, "char": "High-Fat (Bad for Obesity!)"},
+{"name":"Cereal","kcal":124,"prot":2,"carbo":27,"fat":1, "char":"Low-Sugar (Good for Diabetes!)"},
+{"name":"Cake","kcal":174,"prot":2,"carbo":29,"fat":6, "char": "High-Sugar (Bad for Diabetes!)"}
+]
